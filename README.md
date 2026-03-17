@@ -74,3 +74,4 @@ Combo bonus: +50 per consecutive Tetris!
 ---
 
 ⭐ Star this repo if you enjoy the game!
+# Update
